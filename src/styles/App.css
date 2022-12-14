@@ -1,0 +1,8 @@
+.top-banner{
+    width: 100%;
+    background-image: url("../images/buld.PNG") ;
+    background-size: cover;
+    font-size: 25px;
+    padding: 5.875rem 0 9.375rem;
+    margin: 0rem;
+}
